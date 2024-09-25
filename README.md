@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @craig-warner
 - 👀 I’m interested in Computer Architecture: RISC-V Processors, NVMe, Cache Coherency
-- 🌱 I’m currently learning Slinghost
-- 💞️ I’m looking to collaborate on HPC Hardware Design
+- 🌱 I’m currently learning Memory Fabric Protocols
 - 📫 How to reach me cgwarner2012@gmail.com
 
 <!---
